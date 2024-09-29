@@ -1,0 +1,572 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\dimaurl\\services-url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|solutionrelative:task2angular.client\\src\\app\\dima29\\dimaurl\\services-url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\services\\services.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|solutionrelative:task2angular.client\\src\\app\\dima29\\services\\services.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\services\\services.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|solutionrelative:task2angular.client\\src\\app\\dima29\\services\\services.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\task2angular\\task2angular.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|solutionrelative:task2angular.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\sub-service\\sub-service.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|solutionrelative:task2angular.client\\src\\app\\dima29\\sub-service\\sub-service.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\sub-service\\sub-service.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|solutionrelative:task2angular.client\\src\\app\\dima29\\sub-service\\sub-service.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\sub-service\\sub-service.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|solutionrelative:task2angular.client\\src\\app\\dima29\\sub-service\\sub-service.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\services\\services.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|solutionrelative:task2angular.client\\src\\app\\dima29\\services\\services.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\dimaurl\\services-url.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|solutionrelative:task2angular.client\\src\\app\\dima29\\dimaurl\\services-url.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\nav-bar\\nav-bar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|solutionrelative:task2angular.client\\src\\app\\dima29\\nav-bar\\nav-bar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\sub-service\\sub-service.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|solutionrelative:task2angular.client\\src\\app\\dima29\\sub-service\\sub-service.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\nav-bar\\nav-bar.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|solutionrelative:task2angular.client\\src\\app\\dima29\\nav-bar\\nav-bar.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\task2angular\\task2angular.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|solutionrelative:task2angular.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140582F1-0E60-46E4-B639-0286A3F2302D}|task2angular.Server\\task2angular.Server.csproj|c:\\users\\d\\desktop\\typescript\\typescript\\task2angular\\task2angular.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140582F1-0E60-46E4-B639-0286A3F2302D}|task2angular.Server\\task2angular.Server.csproj|solutionrelative:task2angular.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\task2angular\\task2angular.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|solutionrelative:task2angular.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|solutionrelative:task2angular.client\\src\\app\\dima29\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140582F1-0E60-46E4-B639-0286A3F2302D}|task2angular.Server\\task2angular.Server.csproj|c:\\users\\d\\desktop\\typescript\\typescript\\task2angular\\task2angular.server\\controllers\\subservicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140582F1-0E60-46E4-B639-0286A3F2302D}|task2angular.Server\\task2angular.Server.csproj|solutionrelative:task2angular.server\\controllers\\subservicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\home\\home.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|solutionrelative:task2angular.client\\src\\app\\dima29\\home\\home.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|solutionrelative:task2angular.client\\src\\app\\dima29\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|solutionrelative:task2angular.client\\src\\app\\dima29\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140582F1-0E60-46E4-B639-0286A3F2302D}|task2angular.Server\\task2angular.Server.csproj|c:\\users\\d\\desktop\\typescript\\typescript\\task2angular\\task2angular.server\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140582F1-0E60-46E4-B639-0286A3F2302D}|task2angular.Server\\task2angular.Server.csproj|solutionrelative:task2angular.server\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140582F1-0E60-46E4-B639-0286A3F2302D}|task2angular.Server\\task2angular.Server.csproj|c:\\users\\d\\desktop\\typescript\\typescript\\task2angular\\task2angular.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{140582F1-0E60-46E4-B639-0286A3F2302D}|task2angular.Server\\task2angular.Server.csproj|solutionrelative:task2angular.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140582F1-0E60-46E4-B639-0286A3F2302D}|task2angular.Server\\task2angular.Server.csproj|c:\\users\\d\\desktop\\typescript\\typescript\\task2angular\\task2angular.server\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{140582F1-0E60-46E4-B639-0286A3F2302D}|task2angular.Server\\task2angular.Server.csproj|solutionrelative:task2angular.server\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140582F1-0E60-46E4-B639-0286A3F2302D}|task2angular.Server\\task2angular.Server.csproj|c:\\users\\d\\desktop\\typescript\\typescript\\task2angular\\task2angular.server\\models\\subservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140582F1-0E60-46E4-B639-0286A3F2302D}|task2angular.Server\\task2angular.Server.csproj|solutionrelative:task2angular.server\\models\\subservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140582F1-0E60-46E4-B639-0286A3F2302D}|task2angular.Server\\task2angular.Server.csproj|c:\\users\\d\\desktop\\typescript\\typescript\\task2angular\\task2angular.server\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140582F1-0E60-46E4-B639-0286A3F2302D}|task2angular.Server\\task2angular.Server.csproj|solutionrelative:task2angular.server\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140582F1-0E60-46E4-B639-0286A3F2302D}|task2angular.Server\\task2angular.Server.csproj|c:\\users\\d\\desktop\\typescript\\typescript\\task2angular\\task2angular.server\\task2angular.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{140582F1-0E60-46E4-B639-0286A3F2302D}|task2angular.Server\\task2angular.Server.csproj|solutionrelative:task2angular.server\\task2angular.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.Server\\Models\\MyDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:task2angular.Server\\Models\\MyDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\task2angular\\task2angular.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|solutionrelative:task2angular.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\nav-bar\\nav-bar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|solutionrelative:task2angular.client\\src\\app\\dima29\\nav-bar\\nav-bar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\task2angular\\task2angular.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|solutionrelative:task2angular.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\task2angular\\task2angular.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|solutionrelative:task2angular.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\task2angular\\task2angular.client\\karma.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E97850C4-6654-4E2E-AAC3-C65837320FF9}|task2angular.client\\task2angular.client.esproj|solutionrelative:task2angular.client\\karma.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sub-service.component.html",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\sub-service\\sub-service.component.html",
+              "RelativeDocumentMoniker": "task2angular.client\\src\\app\\dima29\\sub-service\\sub-service.component.html",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\sub-service\\sub-service.component.html",
+              "RelativeToolTip": "task2angular.client\\src\\app\\dima29\\sub-service\\sub-service.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-29T13:03:23.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "task2angular.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "task2angular.client\\src\\app\\app.module.ts",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-29T08:33:23.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "services.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\services\\services.component.spec.ts",
+              "RelativeDocumentMoniker": "task2angular.client\\src\\app\\dima29\\services\\services.component.spec.ts",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\services\\services.component.spec.ts",
+              "RelativeToolTip": "task2angular.client\\src\\app\\dima29\\services\\services.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-29T08:40:27.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "services.component.html",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\services\\services.component.html",
+              "RelativeDocumentMoniker": "task2angular.client\\src\\app\\dima29\\services\\services.component.html",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\services\\services.component.html",
+              "RelativeToolTip": "task2angular.client\\src\\app\\dima29\\services\\services.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-29T09:18:53.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "services-url.service.ts",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\dimaUrl\\services-url.service.ts",
+              "RelativeDocumentMoniker": "task2angular.client\\src\\app\\dima29\\dimaUrl\\services-url.service.ts",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\dimaUrl\\services-url.service.ts",
+              "RelativeToolTip": "task2angular.client\\src\\app\\dima29\\dimaUrl\\services-url.service.ts",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-29T09:46:58.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sub-service.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\sub-service\\sub-service.component.spec.ts",
+              "RelativeDocumentMoniker": "task2angular.client\\src\\app\\dima29\\sub-service\\sub-service.component.spec.ts",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\sub-service\\sub-service.component.spec.ts",
+              "RelativeToolTip": "task2angular.client\\src\\app\\dima29\\sub-service\\sub-service.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-29T12:45:56.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "sub-service.component.ts",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\sub-service\\sub-service.component.ts",
+              "RelativeDocumentMoniker": "task2angular.client\\src\\app\\dima29\\sub-service\\sub-service.component.ts",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\sub-service\\sub-service.component.ts",
+              "RelativeToolTip": "task2angular.client\\src\\app\\dima29\\sub-service\\sub-service.component.ts",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-29T12:46:01.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "services.component.ts",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\services\\services.component.ts",
+              "RelativeDocumentMoniker": "task2angular.client\\src\\app\\dima29\\services\\services.component.ts",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\services\\services.component.ts",
+              "RelativeToolTip": "task2angular.client\\src\\app\\dima29\\services\\services.component.ts",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-29T08:33:09.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "services-url.service.spec.ts",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\dimaUrl\\services-url.service.spec.ts",
+              "RelativeDocumentMoniker": "task2angular.client\\src\\app\\dima29\\dimaUrl\\services-url.service.spec.ts",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\dimaUrl\\services-url.service.spec.ts",
+              "RelativeToolTip": "task2angular.client\\src\\app\\dima29\\dimaUrl\\services-url.service.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-29T10:10:15.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "nav-bar.component.html",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\nav-bar\\nav-bar.component.html",
+              "RelativeDocumentMoniker": "task2angular.client\\src\\app\\dima29\\nav-bar\\nav-bar.component.html",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\nav-bar\\nav-bar.component.html",
+              "RelativeToolTip": "task2angular.client\\src\\app\\dima29\\nav-bar\\nav-bar.component.html",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-29T08:31:52.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "sub-service.component.css",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\sub-service\\sub-service.component.css",
+              "RelativeDocumentMoniker": "task2angular.client\\src\\app\\dima29\\sub-service\\sub-service.component.css",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\sub-service\\sub-service.component.css",
+              "RelativeToolTip": "task2angular.client\\src\\app\\dima29\\sub-service\\sub-service.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-29T13:15:19.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "nav-bar.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\nav-bar\\nav-bar.component.spec.ts",
+              "RelativeDocumentMoniker": "task2angular.client\\src\\app\\dima29\\nav-bar\\nav-bar.component.spec.ts",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\nav-bar\\nav-bar.component.spec.ts",
+              "RelativeToolTip": "task2angular.client\\src\\app\\dima29\\nav-bar\\nav-bar.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-29T08:31:54.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.Server\\Program.cs",
+              "RelativeDocumentMoniker": "task2angular.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.Server\\Program.cs",
+              "RelativeToolTip": "task2angular.Server\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T09:30:57.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "task2angular.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "task2angular.client\\src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-29T08:29:05.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "task2angular.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "task2angular.client\\src\\app\\app.component.ts",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-29T08:18:01.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "home.component.ts",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\home\\home.component.ts",
+              "RelativeDocumentMoniker": "task2angular.client\\src\\app\\dima29\\home\\home.component.ts",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\home\\home.component.ts",
+              "RelativeToolTip": "task2angular.client\\src\\app\\dima29\\home\\home.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-29T08:48:41.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SubServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.Server\\Controllers\\SubServicesController.cs",
+              "RelativeDocumentMoniker": "task2angular.Server\\Controllers\\SubServicesController.cs",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.Server\\Controllers\\SubServicesController.cs",
+              "RelativeToolTip": "task2angular.Server\\Controllers\\SubServicesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T09:55:51.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "home.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\home\\home.component.spec.ts",
+              "RelativeDocumentMoniker": "task2angular.client\\src\\app\\dima29\\home\\home.component.spec.ts",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\home\\home.component.spec.ts",
+              "RelativeToolTip": "task2angular.client\\src\\app\\dima29\\home\\home.component.spec.ts",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-29T08:54:00.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "home.component.html",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\home\\home.component.html",
+              "RelativeDocumentMoniker": "task2angular.client\\src\\app\\dima29\\home\\home.component.html",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\home\\home.component.html",
+              "RelativeToolTip": "task2angular.client\\src\\app\\dima29\\home\\home.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-29T08:53:58.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "home.component.css",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\home\\home.component.css",
+              "RelativeDocumentMoniker": "task2angular.client\\src\\app\\dima29\\home\\home.component.css",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\home\\home.component.css",
+              "RelativeToolTip": "task2angular.client\\src\\app\\dima29\\home\\home.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-29T10:11:43.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.Server\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "task2angular.Server\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.Server\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "task2angular.Server\\Controllers\\ServiceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T09:34:38.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SubService.cs",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.Server\\Models\\SubService.cs",
+              "RelativeDocumentMoniker": "task2angular.Server\\Models\\SubService.cs",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.Server\\Models\\SubService.cs",
+              "RelativeToolTip": "task2angular.Server\\Models\\SubService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T09:30:00.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "task2angular.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.Server\\appsettings.json",
+              "RelativeToolTip": "task2angular.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-29T09:29:59.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CHANGELOG.md",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.Server\\CHANGELOG.md",
+              "RelativeDocumentMoniker": "task2angular.Server\\CHANGELOG.md",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.Server\\CHANGELOG.md",
+              "RelativeToolTip": "task2angular.Server\\CHANGELOG.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-09-29T09:31:12.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.Server\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "task2angular.Server\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.Server\\Models\\Service.cs",
+              "RelativeToolTip": "task2angular.Server\\Models\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T09:29:57.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "task2angular.Server",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.Server\\task2angular.Server.csproj",
+              "RelativeDocumentMoniker": "task2angular.Server\\task2angular.Server.csproj",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.Server\\task2angular.Server.csproj",
+              "RelativeToolTip": "task2angular.Server\\task2angular.Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-29T09:29:47.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.Server\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "task2angular.Server\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.Server\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "task2angular.Server\\Models\\MyDbContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA3wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T09:29:08.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "nav-bar.component.ts",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\nav-bar\\nav-bar.component.ts",
+              "RelativeDocumentMoniker": "task2angular.client\\src\\app\\dima29\\nav-bar\\nav-bar.component.ts",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\dima29\\nav-bar\\nav-bar.component.ts",
+              "RelativeToolTip": "task2angular.client\\src\\app\\dima29\\nav-bar\\nav-bar.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-29T08:31:55.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "task2angular.client\\src\\app\\app.component.spec.ts",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "task2angular.client\\src\\app\\app.component.spec.ts",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-29T08:40:47.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\index.html",
+              "RelativeDocumentMoniker": "task2angular.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\index.html",
+              "RelativeToolTip": "task2angular.client\\src\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAADLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-29T08:17:02.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "task2angular.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "task2angular.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-29T08:16:57.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "karma.conf.js",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\karma.conf.js",
+              "RelativeDocumentMoniker": "task2angular.client\\karma.conf.js",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.client\\karma.conf.js",
+              "RelativeToolTip": "task2angular.client\\karma.conf.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-29T08:09:54.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

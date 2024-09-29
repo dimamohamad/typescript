@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:4200",
 "RedirectUrl": "",
 "LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.Server\\..\\angulartask.client",
+"WorkingDirectory": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.Server\\..\\angulartask.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

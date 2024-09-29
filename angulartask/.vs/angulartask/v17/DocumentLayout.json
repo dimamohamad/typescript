@@ -1,109 +1,109 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\d\\source\\repos\\angulartask\\",
+  "WorkspaceRootPath": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\nav-bar\\nav-bar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\app\\nav-bar\\nav-bar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\source\\repos\\angulartask\\angulartask.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\source\\repos\\angulartask\\angulartask.client\\aspnetcore-https.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\aspnetcore-https.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\nav-bar\\nav-bar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\angulartask\\angulartask.client\\src\\app\\nav-bar\\nav-bar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\app\\nav-bar\\nav-bar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\angulartask\\angulartask.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|",
-      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|"
+      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\angulartask\\angulartask.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\angulartask\\angulartask.client\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\app\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\angulartask\\angulartask.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|",
+      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\footer\\footer.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\app\\footer\\footer.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\angulartask\\angulartask.client\\src\\app\\nav-bar\\nav-bar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\app\\nav-bar\\nav-bar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\products\\products.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\app\\products\\products.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\angulartask\\angulartask.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\products\\products.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\app\\products\\products.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\footer\\footer.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\app\\footer\\footer.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\nav-bar\\nav-bar.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\app\\nav-bar\\nav-bar.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\nav-bar\\nav-bar.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\angulartask\\angulartask.client\\src\\app\\nav-bar\\nav-bar.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\app\\nav-bar\\nav-bar.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\angulartask\\angulartask.client\\src\\app\\nav-bar\\nav-bar.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\app\\nav-bar\\nav-bar.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\angulartask\\angulartask.client\\src\\app\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\app\\home\\home.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\angulartask\\angulartask.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\angulartask\\angulartask.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\angulartask\\angulartask.client\\aspnetcore-https.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\aspnetcore-https.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\angulartask\\angulartask.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\angulartask\\angulartask.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\angulartask\\angulartask.client\\src\\app\\footer\\footer.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\app\\footer\\footer.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\angulartask\\angulartask.client\\src\\app\\products\\products.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\app\\products\\products.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\angulartask\\angulartask.client\\src\\app\\products\\products.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\app\\products\\products.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\angulartask\\angulartask.client\\src\\app\\footer\\footer.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\app\\footer\\footer.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\angulartask\\angulartask.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\angulartask\\angulartask.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\angulartask\\angulartask.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\source\\repos\\angulartask\\angulartask.client\\angulartask.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|c:\\users\\d\\desktop\\typescript\\typescript\\angulartask\\angulartask.client\\angulartask.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{60D2BBB8-064A-4447-8FA7-78BFC3834E0E}|angulartask.client\\angulartask.client.esproj|solutionrelative:angulartask.client\\angulartask.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F95DE560-FADA-46A9-8818-C4CD36808410}|angulartask.Server\\angulartask.Server.csproj|c:\\users\\d\\source\\repos\\angulartask\\angulartask.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F95DE560-FADA-46A9-8818-C4CD36808410}|angulartask.Server\\angulartask.Server.csproj|c:\\users\\d\\desktop\\typescript\\typescript\\angulartask\\angulartask.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F95DE560-FADA-46A9-8818-C4CD36808410}|angulartask.Server\\angulartask.Server.csproj|solutionrelative:angulartask.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F95DE560-FADA-46A9-8818-C4CD36808410}|angulartask.Server\\angulartask.Server.csproj|c:\\users\\d\\source\\repos\\angulartask\\angulartask.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F95DE560-FADA-46A9-8818-C4CD36808410}|angulartask.Server\\angulartask.Server.csproj|c:\\users\\d\\desktop\\typescript\\typescript\\angulartask\\angulartask.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F95DE560-FADA-46A9-8818-C4CD36808410}|angulartask.Server\\angulartask.Server.csproj|solutionrelative:angulartask.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F95DE560-FADA-46A9-8818-C4CD36808410}|angulartask.Server\\angulartask.Server.csproj|c:\\users\\d\\source\\repos\\angulartask\\angulartask.server\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "AbsoluteMoniker": "D:0:0:{F95DE560-FADA-46A9-8818-C4CD36808410}|angulartask.Server\\angulartask.Server.csproj|c:\\users\\d\\desktop\\typescript\\typescript\\angulartask\\angulartask.server\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{F95DE560-FADA-46A9-8818-C4CD36808410}|angulartask.Server\\angulartask.Server.csproj|solutionrelative:angulartask.server\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
@@ -126,62 +126,102 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "aspnetcore-https.js",
-              "DocumentMoniker": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\aspnetcore-https.js",
-              "RelativeDocumentMoniker": "angulartask.client\\aspnetcore-https.js",
-              "ToolTip": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\aspnetcore-https.js",
-              "RelativeToolTip": "angulartask.client\\aspnetcore-https.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-26T12:54:33.632Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "category.component.ts",
-              "DocumentMoniker": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\category\\category.component.ts",
-              "RelativeDocumentMoniker": "angulartask.client\\src\\app\\category\\category.component.ts",
-              "ToolTip": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\category\\category.component.ts",
-              "RelativeToolTip": "angulartask.client\\src\\app\\category\\category.component.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "angulartask.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "angulartask.client\\src\\app\\app.module.ts",
+              "ViewState": "AQIAACUAAAAAAAAAAAAUwCUAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-26T08:52:18.729Z",
+              "WhenOpened": "2024-09-26T08:09:34.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "home.component.html",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\home\\home.component.html",
+              "RelativeDocumentMoniker": "angulartask.client\\src\\app\\home\\home.component.html",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\home\\home.component.html",
+              "RelativeToolTip": "angulartask.client\\src\\app\\home\\home.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-26T09:10:03.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "app.component.ts",
-              "DocumentMoniker": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\app.component.ts",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\app.component.ts",
               "RelativeDocumentMoniker": "angulartask.client\\src\\app\\app.component.ts",
-              "ToolTip": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\app.component.ts",
               "RelativeToolTip": "angulartask.client\\src\\app\\app.component.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-26T08:24:15.65Z"
+              "WhenOpened": "2024-09-26T08:24:15.65Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "angular.json",
-              "DocumentMoniker": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\angular.json",
-              "RelativeDocumentMoniker": "angulartask.client\\angular.json",
-              "ToolTip": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\angular.json",
-              "RelativeToolTip": "angulartask.client\\angular.json",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAAAF8AAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-26T10:18:19.695Z",
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "angulartask.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "angulartask.client\\src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-26T08:23:21.326Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "nav-bar.component.html",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\nav-bar\\nav-bar.component.html",
+              "RelativeDocumentMoniker": "angulartask.client\\src\\app\\nav-bar\\nav-bar.component.html",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\nav-bar\\nav-bar.component.html",
+              "RelativeToolTip": "angulartask.client\\src\\app\\nav-bar\\nav-bar.component.html",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-26T08:32:17.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "nav-bar.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\nav-bar\\nav-bar.component.spec.ts",
+              "RelativeDocumentMoniker": "angulartask.client\\src\\app\\nav-bar\\nav-bar.component.spec.ts",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\nav-bar\\nav-bar.component.spec.ts",
+              "RelativeToolTip": "angulartask.client\\src\\app\\nav-bar\\nav-bar.component.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T08:32:27.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "home.component.ts",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\home\\home.component.ts",
+              "RelativeDocumentMoniker": "angulartask.client\\src\\app\\home\\home.component.ts",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\home\\home.component.ts",
+              "RelativeToolTip": "angulartask.client\\src\\app\\home\\home.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T09:10:30.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "nav-bar.component.ts",
-              "DocumentMoniker": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\nav-bar\\nav-bar.component.ts",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\nav-bar\\nav-bar.component.ts",
               "RelativeDocumentMoniker": "angulartask.client\\src\\app\\nav-bar\\nav-bar.component.ts",
-              "ToolTip": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\nav-bar\\nav-bar.component.ts",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\nav-bar\\nav-bar.component.ts",
               "RelativeToolTip": "angulartask.client\\src\\app\\nav-bar\\nav-bar.component.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
@@ -190,97 +230,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
+              "Title": "nav-bar.component.css",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\nav-bar\\nav-bar.component.css",
+              "RelativeDocumentMoniker": "angulartask.client\\src\\app\\nav-bar\\nav-bar.component.css",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\nav-bar\\nav-bar.component.css",
+              "RelativeToolTip": "angulartask.client\\src\\app\\nav-bar\\nav-bar.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-26T08:36:13.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\index.html",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\index.html",
               "RelativeDocumentMoniker": "angulartask.client\\src\\index.html",
-              "ToolTip": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\index.html",
               "RelativeToolTip": "angulartask.client\\src\\index.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAADLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-26T08:12:36.809Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "category.component.html",
-              "DocumentMoniker": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\category\\category.component.html",
-              "RelativeDocumentMoniker": "angulartask.client\\src\\app\\category\\category.component.html",
-              "ToolTip": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\category\\category.component.html",
-              "RelativeToolTip": "angulartask.client\\src\\app\\category\\category.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-26T08:52:54.787Z",
+              "WhenOpened": "2024-09-26T08:12:36.809Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "nav-bar.component.html",
-              "DocumentMoniker": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\nav-bar\\nav-bar.component.html",
-              "RelativeDocumentMoniker": "angulartask.client\\src\\app\\nav-bar\\nav-bar.component.html",
-              "ToolTip": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\nav-bar\\nav-bar.component.html",
-              "RelativeToolTip": "angulartask.client\\src\\app\\nav-bar\\nav-bar.component.html",
-              "ViewState": "AQIAABwAAAAAAAAAAAAAABYAAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-26T08:32:17.277Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "app.component.html",
-              "DocumentMoniker": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\app.component.html",
-              "RelativeDocumentMoniker": "angulartask.client\\src\\app\\app.component.html",
-              "ToolTip": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\app.component.html",
-              "RelativeToolTip": "angulartask.client\\src\\app\\app.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-26T08:23:21.326Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "app.module.ts",
-              "DocumentMoniker": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\app.module.ts",
-              "RelativeDocumentMoniker": "angulartask.client\\src\\app\\app.module.ts",
-              "ToolTip": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\app.module.ts",
-              "RelativeToolTip": "angulartask.client\\src\\app\\app.module.ts",
-              "ViewState": "AQIAABoAAAAAAAAAAAAMwCIAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-26T08:09:34.982Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "home.component.html",
-              "DocumentMoniker": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\home\\home.component.html",
-              "RelativeDocumentMoniker": "angulartask.client\\src\\app\\home\\home.component.html",
-              "ToolTip": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\home\\home.component.html",
-              "RelativeToolTip": "angulartask.client\\src\\app\\home\\home.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-26T09:10:03.056Z"
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "angulartask.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "angulartask.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T08:45:08.746Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "home.component.ts",
-              "DocumentMoniker": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\home\\home.component.ts",
-              "RelativeDocumentMoniker": "angulartask.client\\src\\app\\home\\home.component.ts",
-              "ToolTip": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\home\\home.component.ts",
-              "RelativeToolTip": "angulartask.client\\src\\app\\home\\home.component.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\angular.json",
+              "RelativeDocumentMoniker": "angulartask.client\\angular.json",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\angular.json",
+              "RelativeToolTip": "angulartask.client\\angular.json",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAF8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T10:18:19.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "category.component.ts",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\category\\category.component.ts",
+              "RelativeDocumentMoniker": "angulartask.client\\src\\app\\category\\category.component.ts",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\category\\category.component.ts",
+              "RelativeToolTip": "angulartask.client\\src\\app\\category\\category.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-26T09:10:30.934Z"
+              "WhenOpened": "2024-09-26T08:52:18.729Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "aspnetcore-https.js",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\aspnetcore-https.js",
+              "RelativeDocumentMoniker": "angulartask.client\\aspnetcore-https.js",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\aspnetcore-https.js",
+              "RelativeToolTip": "angulartask.client\\aspnetcore-https.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-26T12:54:33.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "category.component.html",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\category\\category.component.html",
+              "RelativeDocumentMoniker": "angulartask.client\\src\\app\\category\\category.component.html",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\category\\category.component.html",
+              "RelativeToolTip": "angulartask.client\\src\\app\\category\\category.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-26T08:52:54.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "footer.component.ts",
-              "DocumentMoniker": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\footer\\footer.component.ts",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\footer\\footer.component.ts",
               "RelativeDocumentMoniker": "angulartask.client\\src\\app\\footer\\footer.component.ts",
-              "ToolTip": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\footer\\footer.component.ts",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\footer\\footer.component.ts",
               "RelativeToolTip": "angulartask.client\\src\\app\\footer\\footer.component.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
@@ -288,11 +329,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "products.component.spec.ts",
-              "DocumentMoniker": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\products\\products.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\products\\products.component.spec.ts",
               "RelativeDocumentMoniker": "angulartask.client\\src\\app\\products\\products.component.spec.ts",
-              "ToolTip": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\products\\products.component.spec.ts",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\products\\products.component.spec.ts",
               "RelativeToolTip": "angulartask.client\\src\\app\\products\\products.component.spec.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
@@ -300,11 +341,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "products.component.ts",
-              "DocumentMoniker": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\products\\products.component.ts",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\products\\products.component.ts",
               "RelativeDocumentMoniker": "angulartask.client\\src\\app\\products\\products.component.ts",
-              "ToolTip": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\products\\products.component.ts",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\products\\products.component.ts",
               "RelativeToolTip": "angulartask.client\\src\\app\\products\\products.component.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
@@ -312,23 +353,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "nav-bar.component.spec.ts",
-              "DocumentMoniker": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\nav-bar\\nav-bar.component.spec.ts",
-              "RelativeDocumentMoniker": "angulartask.client\\src\\app\\nav-bar\\nav-bar.component.spec.ts",
-              "ToolTip": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\nav-bar\\nav-bar.component.spec.ts",
-              "RelativeToolTip": "angulartask.client\\src\\app\\nav-bar\\nav-bar.component.spec.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-26T08:32:27.659Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "styles.css",
-              "DocumentMoniker": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\styles.css",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\styles.css",
               "RelativeDocumentMoniker": "angulartask.client\\src\\styles.css",
-              "ToolTip": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\styles.css",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\styles.css",
               "RelativeToolTip": "angulartask.client\\src\\styles.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -336,11 +365,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "footer.component.html",
-              "DocumentMoniker": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\footer\\footer.component.html",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\footer\\footer.component.html",
               "RelativeDocumentMoniker": "angulartask.client\\src\\app\\footer\\footer.component.html",
-              "ToolTip": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\footer\\footer.component.html",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\app\\footer\\footer.component.html",
               "RelativeToolTip": "angulartask.client\\src\\app\\footer\\footer.component.html",
               "ViewState": "AQIAACYAAAAAAAAAAAAEwHAAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -348,35 +377,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "app-routing.module.ts",
-              "DocumentMoniker": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\app-routing.module.ts",
-              "RelativeDocumentMoniker": "angulartask.client\\src\\app\\app-routing.module.ts",
-              "ToolTip": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\app-routing.module.ts",
-              "RelativeToolTip": "angulartask.client\\src\\app\\app-routing.module.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-26T08:45:08.746Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "nav-bar.component.css",
-              "DocumentMoniker": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\nav-bar\\nav-bar.component.css",
-              "RelativeDocumentMoniker": "angulartask.client\\src\\app\\nav-bar\\nav-bar.component.css",
-              "ToolTip": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\app\\nav-bar\\nav-bar.component.css",
-              "RelativeToolTip": "angulartask.client\\src\\app\\nav-bar\\nav-bar.component.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-26T08:36:13.832Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 20,
               "Title": "main.ts",
-              "DocumentMoniker": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\main.ts",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\main.ts",
               "RelativeDocumentMoniker": "angulartask.client\\src\\main.ts",
-              "ToolTip": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\main.ts",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\main.ts",
               "RelativeToolTip": "angulartask.client\\src\\main.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
@@ -386,9 +391,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "proxy.conf.js",
-              "DocumentMoniker": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\proxy.conf.js",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\proxy.conf.js",
               "RelativeDocumentMoniker": "angulartask.client\\src\\proxy.conf.js",
-              "ToolTip": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\src\\proxy.conf.js",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\src\\proxy.conf.js",
               "RelativeToolTip": "angulartask.client\\src\\proxy.conf.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -398,9 +403,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "angulartask.client.esproj",
-              "DocumentMoniker": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\angulartask.client.esproj",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\angulartask.client.esproj",
               "RelativeDocumentMoniker": "angulartask.client\\angulartask.client.esproj",
-              "ToolTip": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\angulartask.client.esproj",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\angulartask.client.esproj",
               "RelativeToolTip": "angulartask.client\\angulartask.client.esproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
@@ -410,9 +415,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.Server\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.Server\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "angulartask.Server\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.Server\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "angulartask.Server\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -422,9 +427,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.Server\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.Server\\Program.cs",
               "RelativeDocumentMoniker": "angulartask.Server\\Program.cs",
-              "ToolTip": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.Server\\Program.cs",
               "RelativeToolTip": "angulartask.Server\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -434,9 +439,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "CHANGELOG.md",
-              "DocumentMoniker": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.Server\\CHANGELOG.md",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.Server\\CHANGELOG.md",
               "RelativeDocumentMoniker": "angulartask.Server\\CHANGELOG.md",
-              "ToolTip": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.Server\\CHANGELOG.md",
+              "ToolTip": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.Server\\CHANGELOG.md",
               "RelativeToolTip": "angulartask.Server\\CHANGELOG.md",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",

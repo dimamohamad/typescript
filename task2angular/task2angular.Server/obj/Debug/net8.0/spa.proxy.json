@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\task2angular\\task2angular.Server\\..\\task2angular.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

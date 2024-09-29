@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "qIsfmhBZ3PpIb6RW1JkYQczX8ROZ1aSG9I26QIfK/ZI=",
+  "Hash": "zHzgHe1PtimJ+HIAdnnoF5FVrxLEm9+OpMIR8gWx1lY=",
   "Source": "angulartask.Server",
   "BasePath": "_content/angulartask.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\d\\source\\repos\\angulartask\\angulartask.client\\angulartask.client.esproj",
+      "Identity": "C:\\Users\\d\\Desktop\\TypeScript\\typescript\\angulartask\\angulartask.client\\angulartask.client.esproj",
       "Version": 2,
       "Source": "angulartask.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

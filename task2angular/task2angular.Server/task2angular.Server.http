@@ -1,0 +1,6 @@
+@task2angular.Server_HostAddress = http://localhost:5272
+
+GET {{task2angular.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
