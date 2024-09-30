@@ -9,21 +9,32 @@ import { ServicesComponent } from './dima29/services/services.component';
 import { RouterModule } from '@angular/router';
 import { HomeComponent } from './dima29/home/home.component';
 import { SubServiceComponent } from './dima29/sub-service/sub-service.component';
-
+import { LectureComponent } from './dima29/lecture/lecture.component';
+import { FormsModule, NgForm } from '@angular/forms';
+import { SubsicriptionComponent } from './dima29/subsicription/subsicription.component';
+import { DetailsComponent } from './dima29/details/details.component';
 @NgModule({
   declarations: [
     AppComponent,
     NavBarComponent,
     ServicesComponent,
-    SubServiceComponent
+    SubServiceComponent,
+    LectureComponent,
+    SubsicriptionComponent,
+    DetailsComponent
   ],
   imports: [
+    FormsModule,
     BrowserModule, HttpClientModule,
     AppRoutingModule,
     RouterModule.forRoot([
       { path: "", component: HomeComponent, pathMatch: "full" },
       { path: "Services", component: ServicesComponent },
-      { path: "SubServices/:id", component: SubServiceComponent }
+      { path: "SubServices/:id", component: SubServiceComponent },
+      { path: "details/:id", component: DetailsComponent },
+      { path: "Lecture", component: LectureComponent },
+      { path: "Subsicription", component: SubsicriptionComponent },
+
 
     ])
    

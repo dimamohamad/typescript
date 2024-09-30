@@ -1,0 +1,16 @@
+
+<div class="card" *ngFor="let item of subscriptionArray">
+  <div class="card-header">
+    Featured
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">{{item.subscriptionName}}</h5>
+    <p class="card-text">{{item.subscriptionDescription}}</p>
+    <p class="card-text">{{item.subscriptionAmount}}</p>
+
+    <a href="#" class="btn btn-primary" (click)="addUserSubscription(item.subscriptionId)">Subscribe Now </a>
+  </div>
+</div>
+
+
+<p>helloe</p>
