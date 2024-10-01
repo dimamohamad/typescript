@@ -30,4 +30,14 @@ export class ServicesUrlService {
 
   }
 
+  addUser(data: any): Observable<any> {
+    return this.http.post<any>(`${this.staticData}/User`, data);
+
+  }
+
+  UserLogin(data: any): Observable<any> {
+    return this.http.post<any>(`${this.staticData}/User/login`, data);
+
+  }
+
 }

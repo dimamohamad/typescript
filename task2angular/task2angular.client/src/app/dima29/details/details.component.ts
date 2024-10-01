@@ -29,9 +29,15 @@ export class DetailsComponent {
 
 
   goToSubscription(id: string) {
-    debugger
+   
     localStorage.setItem("SubServiceId", id)
   }
+
+  //goToSubscription() {
+
+  //  localStorage.setItem('SubServiceId', this.SubServicesDetailsArray.SubServiceId);
+  //  console.log(this.SubServicesDetailsArray.id)
+  //}
 
 
 

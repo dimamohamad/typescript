@@ -35,7 +35,7 @@ export class SubsicriptionComponent {
 
     this.data.subscriptionId = id
     this._ser.addUserSubscription(this.data).subscribe(() => {
-alert("Your subscribe have been add successfully")
+             alert("Your subscribe have been add successfully")
     })
   }
 }

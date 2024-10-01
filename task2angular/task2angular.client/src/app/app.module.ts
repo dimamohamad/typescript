@@ -13,6 +13,8 @@ import { LectureComponent } from './dima29/lecture/lecture.component';
 import { FormsModule, NgForm } from '@angular/forms';
 import { SubsicriptionComponent } from './dima29/subsicription/subsicription.component';
 import { DetailsComponent } from './dima29/details/details.component';
+import { RegistrationUserComponent } from './dima29/registration-user/registration-user.component';
+import { UserLoginComponent } from './dima29/user-login/user-login.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -21,7 +23,9 @@ import { DetailsComponent } from './dima29/details/details.component';
     SubServiceComponent,
     LectureComponent,
     SubsicriptionComponent,
-    DetailsComponent
+    DetailsComponent,
+    RegistrationUserComponent,
+    UserLoginComponent
   ],
   imports: [
     FormsModule,
@@ -35,7 +39,8 @@ import { DetailsComponent } from './dima29/details/details.component';
       { path: "Lecture", component: LectureComponent },
       { path: "Subsicription", component: SubsicriptionComponent },
 
-
+      { path: "Register", component: RegistrationUserComponent },
+      { path: "Login", component: UserLoginComponent },
     ])
    
   ],

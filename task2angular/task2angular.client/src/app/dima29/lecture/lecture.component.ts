@@ -6,6 +6,8 @@ import { Component } from '@angular/core';
   styleUrl: './lecture.component.css'
 })
 export class LectureComponent {
+  display = true;
+  color = "red";
   name: string = "dima";
   num: any;
   urlImg: string = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBnuRaF10nJF2Rj1UVdJNK8_aRjLc4R0JhlQ&s";

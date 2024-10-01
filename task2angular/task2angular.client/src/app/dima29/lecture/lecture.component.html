@@ -4,4 +4,15 @@
 <button (click)="onchange()">change</button>
 <input type="number" value="{{num}}"[(ngModel)]="num"/>{{num}}
 
+<div [ngSwitch]="color">
+  <p *ngSwitchCase="'pink'">color is pink</p>
+  <p *ngSwitchCase="'green'">color is red </p>
+  <p *ngSwitchCase="'blue'">color is blue</p>
+  <p *ngSwitchDefault>...</p>
 
+
+
+
+
+</div>
+<p *ngIf="display == true">Hello World </p>
