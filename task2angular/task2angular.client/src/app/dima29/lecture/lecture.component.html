@@ -1,8 +1,9 @@
 <p>lecture works!</p>
 {{name}}
-<img [src]="urlImg" width="100" height="100"/>
+<img [src]="urlImg" width="100" height="100" />
 <button (click)="onchange()">change</button>
-<input type="number" value="{{num}}"[(ngModel)]="num"/>{{num}}
+<input type="number" value="{{num}}" [(ngModel)]="num" />
+{{num}}
 
 <div [ngSwitch]="color">
   <p *ngSwitchCase="'pink'">color is pink</p>
@@ -15,4 +16,19 @@
 
 
 </div>
+<h2 [ngStyle]='{"background-color":userObj.color}'>{{userObj.name}}</h2>
+
+
+<h2 [ngStyle]='{"color":"red"}'>orange coding academy</h2>
 <p *ngIf="display == true">Hello World </p>
+<!--<h2 [ngStyle]='{"color":"red"}'>orange coding academy</h2>-->
+
+
+<div *ngFor="let item of usersArray" [ngClass]="{ 'greenColor' :   item.grade > 15 , 'redColor' : item.grade <= 15 }">
+
+  <p>{{item.name}}</p>
+  <p>{{item.grade}}</p>
+
+  <p>{{item.food}}</p>
+
+</div>

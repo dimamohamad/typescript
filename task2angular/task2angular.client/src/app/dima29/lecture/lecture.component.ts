@@ -6,6 +6,32 @@ import { Component } from '@angular/core';
   styleUrl: './lecture.component.css'
 })
 export class LectureComponent {
+
+  userObj = {
+    name: "dima",
+    age: 22,
+    color: "yellow"
+
+  };
+  usersArray = [{
+    name: "dima",
+    grade: 22,
+    food: "yellow"
+
+  }, {
+      name: "yosef",
+      grade: 15,
+      food: "yellow"
+
+    },
+    {
+      name: "noor",
+      grade: 17,
+      food: "yellow"
+
+    }
+
+  ]
   display = true;
   color = "red";
   name: string = "dima";

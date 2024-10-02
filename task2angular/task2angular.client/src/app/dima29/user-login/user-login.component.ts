@@ -23,7 +23,7 @@ export class UserLoginComponent {
 
     this._ser.UserLogin(form).subscribe(() => {
       alert(" the user login sucessfully")
-      this._router.navigate([''])
+      this._router.navigate(['Dashboard'])
       //this.userRegisterArray = data
     },
 
