@@ -17,7 +17,7 @@ namespace task2angular.Server.Controllers
             _db = db;
 
 
-            
+
         }
 
         [HttpGet]
@@ -35,14 +35,14 @@ namespace task2angular.Server.Controllers
 
             var folder = Path.Combine(Directory.GetCurrentDirectory(), "UploadsImage");
             if (!Directory.Exists(folder)) {
-            Directory.CreateDirectory(folder);
+                Directory.CreateDirectory(folder);
             }
             var fileImage = Path.Combine(folder, addservice.ServiceImage.FileName);
             using (var stream = new FileStream(fileImage, FileMode.Create)) {
                 addservice.ServiceImage.CopyToAsync(stream);
-            
+
             }
-            
+
             var newservice = new Service
             {
                 ServiceName = addservice.ServiceName,
@@ -59,5 +59,37 @@ namespace task2angular.Server.Controllers
             return Ok(newservice);
         }
 
+
+
+        [HttpPut("updateService/{id}")]
+        public IActionResult updateService(int id,[FromForm] updateServiceDto update) {
+        
+        var service=_db.Services.Where(p=>p.ServiceId==id).FirstOrDefault();
+
+
+
+
+            var folder = Path.Combine(Directory.GetCurrentDirectory(), "UploadsImage");
+            if (!Directory.Exists(folder))
+            {
+                Directory.CreateDirectory(folder);
+            }
+            var fileImage = Path.Combine(folder, update.ServiceImage.FileName);
+            using (var stream = new FileStream(fileImage, FileMode.Create))
+            {
+                update.ServiceImage.CopyToAsync(stream);
+
+            }
+
+            service.ServiceName = update.ServiceName;
+            service.ServiceDescription = update.ServiceDescription;
+            service.ServiceImage=update.ServiceImage.FileName;
+            _db.Services.Update(service);
+            _db.SaveChanges();
+
+            return Ok(service);
+           
+
+        }
     } }
 

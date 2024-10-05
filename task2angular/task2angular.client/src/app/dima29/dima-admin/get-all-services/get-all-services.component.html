@@ -1,0 +1,29 @@
+<main>
+  <!-- Bootstrap container to center and structure content -->
+  <div class="container mt-4" style="margin-left:260px">
+    <!-- Optional heading for the section -->
+    <h2 class="text-center mb-4">Our Services</h2>
+
+    <!-- Styled Bootstrap table -->
+    <table class="table table-dark table-hover table-bordered">
+      <thead>
+        <tr>
+          <th scope="col">id</th>
+          <th scope="col">Service name</th>
+          <th scope="col">Service description</th>
+          <th scope="col">Action</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- Angular *ngFor directive to iterate over the array -->
+        <tr *ngFor="let item of Array; let i = index">
+          <!-- Display row number dynamically using index -->
+          <th scope="row">{{item.serviceId}}</th>
+          <td>{{ item.serviceName }}</td>
+          <td>{{ item.serviceDescription }}</td>
+          <td><a routerLink="/Dashboard/updateAdminServices/{{item.serviceId}}">Edit</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</main>

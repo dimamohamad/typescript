@@ -17,6 +17,8 @@ import { SubsicriptionComponent } from "./dima29/subsicription/subsicription.com
 import { UserLoginComponent } from "./dima29/user-login/user-login.component";
 import { DashboardComponent } from "./dima29/dima-admin/dashboard/dashboard.component";
 import { AddNewServiceComponent } from "./dima29/dima-admin/add-new-service/add-new-service.component";
+import { GetAllServicesComponent } from "./dima29/dima-admin/get-all-services/get-all-services.component";
+import { UpdateServiceComponent } from "./dima29/dima-admin/update-service/update-service.component";
 
 @NgModule({
     declarations: [
@@ -31,7 +33,9 @@ import { AddNewServiceComponent } from "./dima29/dima-admin/add-new-service/add-
         UserLoginComponent,
     DimaAdminComponent,
     DashboardComponent,
-    AddNewServiceComponent
+    AddNewServiceComponent,
+    GetAllServicesComponent,
+    UpdateServiceComponent
 
     ],
     imports: [
@@ -47,9 +51,10 @@ import { AddNewServiceComponent } from "./dima29/dima-admin/add-new-service/add-
           { path: "Subsicription", component: SubsicriptionComponent },
           {
             path: "Dashboard", component: DashboardComponent, children: [
-              { path: "addService", component: AddNewServiceComponent }
+              { path: "addService", component: AddNewServiceComponent },
 
-
+              { path: "getAdminServices", component: GetAllServicesComponent },
+              { path: "updateAdminServices/:id", component: UpdateServiceComponent }
             ]
           },
           { path: "Register", component: RegistrationUserComponent },
