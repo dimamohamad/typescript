@@ -20,10 +20,19 @@ export class UserLoginComponent {
       form.append(key, data[key])
 
     }
-
-    this._ser.UserLogin(form).subscribe(() => {
+   
+    this._ser.UserLogin(form).subscribe((newData) => {
       alert(" the user login sucessfully")
-      this._router.navigate(['Dashboard'])
+      this._ser['email'].next(newData.email); 
+      if (newData.email == 'admin@gmail.com') {
+
+        this._router.navigate(['Dashboard'])
+      }
+      else {
+        this._router.navigate(['Services'])
+      } 
+    
+      //this._router.navigate(['Dashboard'])
       //this.userRegisterArray = data
     },
 

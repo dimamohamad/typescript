@@ -21,6 +21,7 @@
           <th scope="row">{{item.serviceId}}</th>
           <td>{{ item.serviceName }}</td>
           <td>{{ item.serviceDescription }}</td>
+          <td><img src="https://localhost:7141/api/Service/getImage/{{item.serviceImage}}" width="150" height="150" /></td>
           <td><a routerLink="/Dashboard/updateAdminServices/{{item.serviceId}}">Edit</a></td>
         </tr>
       </tbody>

@@ -1,5 +1,6 @@
 import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
+import { ServicesUrlService } from './dima29/dimaUrl/services-url.service';
 
 interface WeatherForecast {
   date: string;
@@ -16,12 +17,12 @@ interface WeatherForecast {
 export class AppComponent implements OnInit {
   public forecasts: WeatherForecast[] = [];
 
-  constructor(private http: HttpClient) {}
-
+  constructor(private http: HttpClient,private _ser:ServicesUrlService) {}
+  email = "";
   ngOnInit() {
     this.getForecasts();
-
-  }
+    this._ser.emailaddress.subscribe((data)=> {this.email=data })
+  };
 
   getForecasts() {
     this.http.get<WeatherForecast[]>('/weatherforecast').subscribe(

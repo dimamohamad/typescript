@@ -91,5 +91,17 @@ namespace task2angular.Server.Controllers
            
 
         }
+        [HttpGet("getImage/{imageName}")]
+        public IActionResult getImage(string imageName) {
+            var pathImage = Path.Combine(Directory.GetCurrentDirectory(), "UploadsImage",imageName);
+            if (System.IO.File.Exists(pathImage)) {
+
+                return PhysicalFile(pathImage,"image/*");
+            
+            }
+        return NotFound();  
+        
+        }
+
     } }
 

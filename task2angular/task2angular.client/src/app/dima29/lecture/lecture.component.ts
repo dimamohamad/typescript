@@ -6,7 +6,9 @@ import { Component } from '@angular/core';
   styleUrl: './lecture.component.css'
 })
 export class LectureComponent {
+  currentDate = new Date();
 
+  collection: string[] = ['geeks', 'for', 'geeks', 'gfg']; 
   userObj = {
     name: "dima",
     age: 22,
