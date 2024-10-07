@@ -19,6 +19,8 @@ import { DashboardComponent } from "./dima29/dima-admin/dashboard/dashboard.comp
 import { AddNewServiceComponent } from "./dima29/dima-admin/add-new-service/add-new-service.component";
 import { GetAllServicesComponent } from "./dima29/dima-admin/get-all-services/get-all-services.component";
 import { UpdateServiceComponent } from "./dima29/dima-admin/update-service/update-service.component";
+import { ProductsComponent } from "./dima29/products/products.component";
+import { CartComponent } from "./dima29/cart/cart.component";
 
 @NgModule({
     declarations: [
@@ -35,7 +37,11 @@ import { UpdateServiceComponent } from "./dima29/dima-admin/update-service/updat
     DashboardComponent,
     AddNewServiceComponent,
     GetAllServicesComponent,
-    UpdateServiceComponent
+    UpdateServiceComponent,
+    ProductsComponent,
+    CartComponent
+
+    
 
     ],
     imports: [
@@ -47,8 +53,15 @@ import { UpdateServiceComponent } from "./dima29/dima-admin/update-service/updat
             { path: "Services", component: ServicesComponent },
             { path: "SubServices/:id", component: SubServiceComponent },
             { path: "details/:id", component: DetailsComponent },
-            { path: "Lecture", component: LectureComponent },
+          { path: "Lecture", component: LectureComponent },
+          {
+            path: "products", component: ProductsComponent
+          },
+          {
+            path: "cart", component: CartComponent
+          },
           { path: "Subsicription", component: SubsicriptionComponent },
+         
           {
             path: "Dashboard", component: DashboardComponent, children: [
               { path: "addService", component: AddNewServiceComponent },

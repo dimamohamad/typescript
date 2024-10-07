@@ -21,5 +21,9 @@ public partial class User
 
     public byte[]? PasswordSalt { get; set; }
 
+    public virtual ICollection<CartItem> CartItems { get; set; } = new List<CartItem>();
+
+    public virtual ICollection<Cart> Carts { get; set; } = new List<Cart>();
+
     public virtual ICollection<UserSubscription> UserSubscriptions { get; set; } = new List<UserSubscription>();
 }
